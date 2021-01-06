@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Hua Lun, NUS Year 3 Computer Science Major.
 
 <!--
 **hua-lun/hua-lun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
