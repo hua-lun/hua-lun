@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hua Lun, NUS Final Year Computer Science Major. 
+### Hi there 👋 I'm Hua Lun, recent Computer Science Graduate from NUS. 
 🐧
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=hua-lun)](https://github.com/hua-lun)
