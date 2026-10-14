@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hua Lun, recent Computer Science Graduate from NUS. 
+### Hi there 👋 I'm Hua Lun, current Computer Science Masters (OMSCS) student at Georgia Institute of Technology.
 🐧
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=hua-lun)](https://github.com/hua-lun)
@@ -6,7 +6,7 @@
 [![An image of @hualun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hualun)](https://holopin.io/@hualun)
 <!--
 **hua-lun/hua-lun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+recent Computer Science Graduate from NUS. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
